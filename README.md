@@ -37,7 +37,7 @@ Cleaning and preprocessing text data, including tokenization, removing punctuati
 ### Data Files
 - `flights-small.csv` - Dataset for structured data analysis
 
-## Technologies Uses
+## Technologies Used
 
 **Programming Language:** Python
 
@@ -63,6 +63,10 @@ Cleaning and preprocessing text data, including tokenization, removing punctuati
   - `stopwords` - Provides common stopwords to filter out.
 - `string` - Built-in Python library for text manipulation and handling punctuation.
 - `sklearn.feature_extraction.text.TfidfVectorizer` - Converts text data into numerical features using Term Frequency-Inverse Document Frequency (TF-IDF)
+
+## Usage
+1. Open the `Project - Data Preprocessing.ipynb` file.
+2. Follow the steps outlined and run the corresponding scripts to preprocess the data.
 
 ## Acknowledgements
 This project was developed as part of CSCI303 - Data Science at the Colorado School of Mines. Special thanks to Professor Morgan Cox and Dr. Wendy Fisher for guidance and course resources and materials.
